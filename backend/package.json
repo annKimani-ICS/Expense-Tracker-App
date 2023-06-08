@@ -1,17 +1,13 @@
 {
-  "name": "expense-tracker-app",
+  "name": "backend",
   "version": "1.0.0",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "annKimani-ICS",
+  "author": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
-  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
